@@ -1,0 +1,3 @@
+D:/Predrag/Kurs/OOP/Zadaci/OOP/copy constructor i kompozicija/Dogovor/cmake-build-debug/CMakeFiles/Dogovor.dir
+D:/Predrag/Kurs/OOP/Zadaci/OOP/copy constructor i kompozicija/Dogovor/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Predrag/Kurs/OOP/Zadaci/OOP/copy constructor i kompozicija/Dogovor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
