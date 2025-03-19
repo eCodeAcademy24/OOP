@@ -1,0 +1,3 @@
+D:/ecode/Kurs/OOP/Zadaci/OOP/operatori/primeri/cmake-build-debug/CMakeFiles/primeri.dir
+D:/ecode/Kurs/OOP/Zadaci/OOP/operatori/primeri/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ecode/Kurs/OOP/Zadaci/OOP/operatori/primeri/cmake-build-debug/CMakeFiles/rebuild_cache.dir
