@@ -1,0 +1,11 @@
+Festival: Glastonbury Festival - Pilton, Somerset, England, 26/06/2024
+Song title: Bohemian Rhapsody, Author: Freddie Mercury, Interpreted by: Queen, 360 sek.
+Song title: Shape of You, Author: Ed Sheeran, Interpreted by: Ed Sheeran, 240 sek.
+Song title: Billie Jean, Author: Michael Jackson, Interpreted by: Michael Jackson, 300 sek.
+Song title: Hey Jude, Author: Paul McCartney, Interpreted by: The Beatles, 360 sek.
+Song title: Stairway to Heaven, Author: Jimmy Page, Interpreted by: Led Zeppelin, 480 sek.
+Song title: Purple Rain, Author: Prince, Interpreted by: Prince and The Revolution, 300 sek.
+Song title: Imagine, Author: John Lennon, Interpreted by: John Lennon, 180 sek.
+Song title: Hotel California, Author: Don Felder, Interpreted by: Eagles, 360 sek.
+Song title: Smells Like Teen Spirit, Author: Kurt Cobain, Interpreted by: Nirvana, 300 sek.
+Song title: Thriller, Author: Rod Temperton, Interpreted by: Michael Jackson, 420 sek.
